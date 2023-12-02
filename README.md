@@ -14,3 +14,8 @@ It is written in Python 3.10 and uses packages [MMDet](https://github.com/open-m
 
 # Installation
 For installation check [Installation.md](Installation.md)
+
+# Pre-trained checkpoints
+Pre-trained checkpoints are available for download on [Google Drive](). Extract the checkpoints to the main repository folder and make sure the checkpoints are located in `PoseEstimationApp/Checkpoints`.
+
+These checkpoints were not trained by me, they were downloaded from the MMDet, MMTrack and MMPose repositories where they are available to download for free.
